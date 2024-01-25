@@ -8,7 +8,7 @@ Object.prototype=getKeys(){
 	return arr;
 }
 
-let student{
+let student={
 	name:"abc";
 	
 }
