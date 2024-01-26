@@ -6,7 +6,9 @@ Object.prototype.getKeys=function(){
 }
 
 let student={
-	name:"abc";
+	name:"john",
+	age:30,
+	city:"New York",
 	
 }
 
